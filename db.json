@@ -1,0 +1,29 @@
+{
+"Restaurant": [
+{
+"Dishid": "1",
+"Image": "burger.jpeg",
+"Comment": "Really good!",
+"Description": "A burger is a flat round mass of minced meat or vegetables, 
+which is fried and
+often eaten in a bread roll"
+},
+{
+"Dishid": "2",
+"Image": "momos.jpeg",
+"Comment": "Tastes great!",
+"Description": "Momo are bite-size dumplings made with a spoonful of 
+stuffing wrapped in
+dough. Momo are usually steamed, though they are sometimes fried or steamfried."
+},
+{
+"Dishid": "3",
+"Image": "pizza.jpeg",
+"Comment": "Yummy!",
+"Description": "pizza, dish of Italian origin consisting of a flattened disk of 
+bread dough topped
+with some combination of olive oil, oregano, tomato, olives, mozzarella or 
+other cheese"
+}
+]
+}
